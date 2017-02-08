@@ -63,45 +63,9 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-## theme: hueman
-theme: landscape
+theme: hueman1
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
-
-jsonContent:
-  meta: true
-  keywords: false # language name option
-  dateFormat: undefined # format string
-  pages:
-    title: true
-    slug: true
-    date: true
-    updated: true
-    comments: true
-    path: true
-    link: true
-    permalink: true
-    excerpt: true
-    keywords: true # but only if root keywords option language was set
-    text: true
-    raw: false
-    content: false
-  posts:
-    title: true
-    slug: true
-    date: true
-    updated: true
-    comments: true
-    path: true
-    link: true
-    permalink: true
-    excerpt: true
-    keywords: true # but only if root keywords option language was set
-    text: true
-    raw: false
-    content: false
-    categories: true
-    tags: true
