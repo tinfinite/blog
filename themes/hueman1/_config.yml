@@ -2,11 +2,11 @@
 menu:
     Home: /
     Frontend: /categories/frontend/
-    Backtend: /categories/backend/
-    Android: /categories/android/
+    # Backtend: /categories/backend/
+    # Android: /categories/android/
     Ios: /categories/ios/
-    Operation: /categories/operation/
-    Test: /categories/test/
+    # Operation: /categories/operation/
+    # Test: /categories/test/
     # Delete this row if you don't want categories in your header nav bar
     # Categories:
     # About: /
