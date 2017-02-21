@@ -1,8 +1,9 @@
 ---
 title: 直播音频小库 voiceLive.js
 date: 2016-12-05
+author: 刘政
 category: frontend
-tags: javascript audio live howlerjs voice
+tags: live-audio
 ---
 
 最近接到做微信公众号语音直播（[一块听听](http://live.tinfinite.com/)）的需求。需求大概是这样的：我们使用 socket 接收语音消息，语音消息其实就是一条一条音频地址，然后需要支持**切换**、**（连续）播放**、**暂停**、**进度**、**显示时间**各种交互。如图：

@@ -2,7 +2,8 @@
 title: 一种新的代码组织办法 feature flow
 date: 2017-02-08
 category: ios
-tags: ios git flow
+author: 张琦
+tags: feature-flow
 ---
 ![ ](http://o4a7cbihz.qnssl.com/cover/a5cad079-8630-462f-98b6-6c634d535eb6)
 当前大部分团队都使用git flow流程管理代码(不了解gitflow的朋友可以自行搜索)，以我们团队的状况来看，一个产品的开发初期是比较适合用git flow的，因为初期都是在做功能添加，而且人比较少，每个迭代只更新一个或几个完整的功能。到了后期的功能调整阶段，git flow就不太适用了，人员多了就可以做更多的事，可能有多个模块需要调整，多个版本同时在开发。
