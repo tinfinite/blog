@@ -1,6 +1,6 @@
 ---
 title: UIImageView 是如何显示出来的
-date: 2016-02-21
+date: 2017-02-21
 author: 张永彬
 category: ios
 tags: UIImageView
