@@ -1,5 +1,5 @@
 ---
-title: 几种典型的耦合与解决方法
+title: 一个KVO的小TIP
 date: 2017-03-21
 category: ios
 author: 张永彬
